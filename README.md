@@ -33,16 +33,16 @@ This project implements an AI-powered chatbot that combines a neural network mod
    - nltk.download('punkt')
    - nltk.download('stopwords')
 
-4. Preprocess the chatbot
+3. Preprocess the chatbot
    - python preprocess.py
    
-3.Train the model by running 
+4. Train the model by running 
    - python train_model.py.
 
-4.Run the chatbot:
+5. Run the chatbot:
    - python main.py
 
-5.Type "quit" to stop the chatbot.  
+6. Type "quit" to stop the chatbot.  
 
 # Future Improvements
 
