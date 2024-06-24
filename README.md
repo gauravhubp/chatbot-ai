@@ -28,9 +28,9 @@ This project implements an AI-powered chatbot that combines a neural network mod
 pip install tensorflow nltk
 
 2. Download the necessary NLTK data:
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
+   import nltk
+   nltk.download('punkt')
+   nltk.download('stopwords')
 
 3. Preprocess the chatbot
    python preprocess.py
