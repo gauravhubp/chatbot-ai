@@ -43,6 +43,6 @@ if __name__ == '__main__':
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
     model.summary()
 
-    model.fit(questions_seq, answers_seq, epochs=100, validation_split=0.2)
+    model.fit(questions_seq, answers_seq, epochs=150, validation_split=0.2)
 
     model.save('chatbot_model.h5')

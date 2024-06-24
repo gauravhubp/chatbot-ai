@@ -42,27 +42,83 @@
     },
     {
       "question": "Hello there",
-      "answer": "Hi wassup"
+      "answer": "Hi! How can I assist you today?"
     },
     {
       "question": "hello",
-      "answer": "hi"
+      "answer": "Hello! How's it going?"
     },
     {
       "question": "hey",
-      "answer": "hi"
+      "answer": "Hey! What's up?"
     },
     {
       "question": "wassup",
-      "answer": "hi there"
+      "answer": "Not much, just here to help you. What can I do for you?"
     },
     {
       "question": "Hiiiiii",
-      "answer": "hi"
+      "answer": "Hi there! How are you?"
     },
     {
       "question": "how",
-      "answer": "what"
+      "answer": "Could you please clarify your question?"
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What's the weather like?",
+      "answer": "I can't check the weather right now, but you can use a weather app or website for the latest updates."
+    },
+    {
+      "question": "Can you help me with my homework?",
+      "answer": "Sure, I'll do my best! What subject or question do you need help with?"
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "As an AI, I don't have preferences, but I can tell you that many people like blue!"
+    },
+    {
+      "question": "Do you like music?",
+      "answer": "I don't have personal preferences, but music is fascinating. What kind of music do you like?"
+    },
+    {
+      "question": "Tell me something interesting",
+      "answer": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+    },
+    {
+      "question": "What's the meaning of life?",
+      "answer": "The meaning of life is a deeply philosophical question. Many believe it involves seeking happiness, understanding, and fulfillment."
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I'm a chatbot created to assist you. You can call me whatever you like!"
+    },
+    {
+      "question": "Who is the president of the United States?",
+      "answer": "As of my last update, the President of the United States is Joe Biden. Please check current sources for the most up-to-date information."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s)."
+    },
+    {
+      "question": "How do airplanes fly?",
+      "answer": "Airplanes fly through the principles of lift, thrust, drag, and weight. The shape of the wings creates lift, engines provide thrust, and pilots control the direction."
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans."
+    },
+    {
+      "question": "What's the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain in the world, standing at 8,848 meters (29,029 feet) above sea level."
+    },
+    {
+      "question": "How many countries are there in the world?",
+      "answer": "There are 195 countries in the world today."
     }
   ]
 }
