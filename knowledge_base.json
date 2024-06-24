@@ -1,0 +1,68 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing great! Thank you for asking. How about you?"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answer": "Alexander Graham Bell is credited with inventing the telephone."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "What year did World War II end?",
+      "answer": "World War II ended in 1945."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answer": "William Shakespeare wrote 'Romeo and Juliet'."
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "Tokyo is the capital of Japan."
+    },
+    {
+      "question": "How many continents are there?",
+      "answer": "There are seven continents: Africa, Antarctica, Asia, Europe, North America, Australia (Oceania), and South America."
+    },
+    {
+      "question": "Hello there",
+      "answer": "Hi wassup"
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "hey",
+      "answer": "hi"
+    },
+    {
+      "question": "wassup",
+      "answer": "hi there"
+    },
+    {
+      "question": "Hiiiiii",
+      "answer": "hi"
+    },
+    {
+      "question": "how",
+      "answer": "what"
+    }
+  ]
+}
