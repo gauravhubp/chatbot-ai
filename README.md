@@ -25,25 +25,26 @@ This project implements an AI-powered chatbot that combines a neural network mod
 
 1. Install the required dependencies:
 
-pip install tensorflow nltk
+  - pip install tensorflow nltk
 
 2. Download the necessary NLTK data:
-   import nltk
-   nltk.download('punkt')
-   nltk.download('stopwords')
 
-3. Preprocess the chatbot
-   python preprocess.py
+   - import nltk
+   - nltk.download('punkt')
+   - nltk.download('stopwords')
+
+4. Preprocess the chatbot
+   - python preprocess.py
    
 3.Train the model by running 
-   python train_model.py.
+   - python train_model.py.
 
 4.Run the chatbot:
-   python main.py
+   - python main.py
 
 5.Type "quit" to stop the chatbot.  
 
-Future Improvements
+# Future Improvements
 
 Implement more advanced NLP techniques for better understanding of user queries.
 Enhance the neural network model with attention mechanisms or transformer architecture.
